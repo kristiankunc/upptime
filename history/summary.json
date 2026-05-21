@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 665,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "time": 882,
+    "timeDay": 882,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif-api.kristn.co.uk.ico",
     "slug": "vat-notif-api",
     "status": "up",
-    "uptime": "17.10%",
-    "uptimeDay": "17.10%",
-    "uptimeWeek": "17.10%",
-    "uptimeMonth": "17.10%",
-    "uptimeYear": "17.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 466,
     "timeWeek": 466,
     "timeMonth": 466,
     "timeYear": 466,
-    "dailyMinutesDown": {
-      "2026-05-21": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ratar TD game",
