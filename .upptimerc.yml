@@ -11,6 +11,12 @@ sites:
     url: https://td-game.kristn.co.uk
   - name: Ratar TD web
     url: https://td.kristn.co.uk
+  - name: Jellyfin
+    url: https://jellyfin.kristn.co.uk
+  - name: Seerr
+    url: https://seerr.kristn.co.uk/
+  - name: MC map
+    url: https://mc-map.kristn.co.uk
 
 status-website:
   cname: status.kristn.co.uk
