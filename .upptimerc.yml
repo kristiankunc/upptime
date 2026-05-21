@@ -6,7 +6,7 @@ sites:
   - name: VatNotif web
     url: https://vatnotif.kristn.co.uk
   - name: VatNotif API
-    url: https://vanotif-api.kristn.co.uk
+    url: https://vatnotif-api.kristn.co.uk
   - name: Ratar TD game
     url: https://td-game.kristn.co.uk
   - name: Ratar TD web
