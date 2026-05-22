@@ -4,19 +4,19 @@
     "url": "https://vatnotif.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif.kristn.co.uk.ico",
     "slug": "vat-notif-web",
-    "status": "up",
-    "uptime": "11.00%",
-    "uptimeDay": "11.00%",
-    "uptimeWeek": "11.00%",
-    "uptimeMonth": "11.00%",
-    "uptimeYear": "11.00%",
-    "time": 6821,
-    "timeDay": 6821,
-    "timeWeek": 6821,
-    "timeMonth": 6821,
-    "timeYear": 6821,
+    "status": "down",
+    "uptime": "41.21%",
+    "uptimeDay": "41.21%",
+    "uptimeWeek": "41.21%",
+    "uptimeMonth": "41.21%",
+    "uptimeYear": "41.21%",
+    "time": 10762,
+    "timeDay": 10762,
+    "timeWeek": 10762,
+    "timeMonth": 10762,
+    "timeYear": 10762,
     "dailyMinutesDown": {
-      "2026-05-22": 596
+      "2026-05-22": 598
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://vatnotif-api.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif-api.kristn.co.uk.ico",
     "slug": "vat-notif-api",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 6516,
-    "timeDay": 6516,
-    "timeWeek": 6516,
-    "timeMonth": 6516,
-    "timeYear": 6516,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 10507,
+    "timeDay": 10507,
+    "timeWeek": 10507,
+    "timeMonth": 10507,
+    "timeYear": 10507,
     "dailyMinutesDown": {
-      "2026-05-22": 1
+      "2026-05-22": 0
     }
   },
   {
