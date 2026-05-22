@@ -1,7 +1,7 @@
 url: https://vatnotif-api.kristn.co.uk
-status: up
-code: 200
-responseTime: 887
-lastUpdated: 2026-05-21T23:48:08.677Z
+status: down
+code: 504
+responseTime: 30615
+lastUpdated: 2026-05-22T10:51:05.341Z
 startTime: 2026-05-21T23:42:54.094Z
 generator: Upptime <https://github.com/upptime/upptime>
