@@ -4,18 +4,20 @@
     "url": "https://vatnotif.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif.kristn.co.uk.ico",
     "slug": "vat-notif-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 879,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 8332,
+    "timeDay": 8332,
+    "timeWeek": 8332,
+    "timeMonth": 8332,
+    "timeYear": 8332,
+    "dailyMinutesDown": {
+      "2026-05-22": 0
+    }
   },
   {
     "name": "VatNotif API",
