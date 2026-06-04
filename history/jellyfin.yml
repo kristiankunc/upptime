@@ -1,7 +1,7 @@
 url: https://jellyfin.kristn.co.uk
-status: down
-code: 522
-responseTime: 19436
-lastUpdated: 2026-06-04T16:04:52.285Z
+status: up
+code: 200
+responseTime: 736
+lastUpdated: 2026-06-04T17:14:55.099Z
 startTime: 2026-05-21T23:48:10.393Z
 generator: Upptime <https://github.com/upptime/upptime>
