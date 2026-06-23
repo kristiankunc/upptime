@@ -87,21 +87,21 @@
     "url": "https://jellyfin.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.kristn.co.uk.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.45%",
-    "time": 1404,
-    "timeDay": 231,
-    "timeWeek": 694,
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.39%",
+    "time": 1405,
+    "timeDay": 628,
+    "timeWeek": 775,
     "timeMonth": 1426,
-    "timeYear": 1404,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2026-06-04": 70,
       "2026-06-10": 192,
-      "2026-06-23": 0
+      "2026-06-23": 29
     }
   },
   {
