@@ -4,12 +4,12 @@
     "url": "https://vatnotif.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif.kristn.co.uk.ico",
     "slug": "vat-notif-web",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.62%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "98.58%",
     "time": 1599,
     "timeDay": 574,
     "timeWeek": 789,
@@ -21,7 +21,8 @@
       "2026-06-29": 10,
       "2026-06-28": 19,
       "2026-07-04": 135,
-      "2026-07-09": 429
+      "2026-07-09": 429,
+      "2026-08-15": 56
     }
   },
   {
@@ -29,12 +30,12 @@
     "url": "https://vatnotif-api.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/vatnotif-api.kristn.co.uk.ico",
     "slug": "vat-notif-api",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.07%",
     "time": 1447,
     "timeDay": 644,
     "timeWeek": 635,
@@ -46,7 +47,8 @@
       "2026-06-29": 10,
       "2026-06-28": 18,
       "2026-07-04": 134,
-      "2026-07-09": 428
+      "2026-07-09": 428,
+      "2026-08-15": 47
     }
   },
   {
@@ -54,12 +56,12 @@
     "url": "https://td-game.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/td-game.kristn.co.uk.ico",
     "slug": "ratar-td-game",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.36%",
     "time": 659,
     "timeDay": 664,
     "timeWeek": 694,
@@ -68,7 +70,8 @@
     "dailyMinutesDown": {
       "2026-06-10": 193,
       "2026-07-04": 134,
-      "2026-07-09": 428
+      "2026-07-09": 428,
+      "2026-08-15": 38
     }
   },
   {
@@ -76,12 +79,12 @@
     "url": "https://td.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/td.kristn.co.uk.ico",
     "slug": "ratar-td-web",
-    "status": "up",
-    "uptime": "88.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.67%",
-    "uptimeYear": "88.48%",
+    "status": "down",
+    "uptime": "88.50%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "69.61%",
+    "uptimeYear": "88.50%",
     "time": 871,
     "timeDay": 464,
     "timeWeek": 673,
@@ -102,7 +105,8 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-07-28": 291
+      "2026-07-28": 291,
+      "2026-08-15": 28
     }
   },
   {
@@ -110,12 +114,12 @@
     "url": "https://jellyfin.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.kristn.co.uk.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.29%",
     "time": 1279,
     "timeDay": 933,
     "timeWeek": 1180,
@@ -126,7 +130,8 @@
       "2026-06-10": 192,
       "2026-06-23": 29,
       "2026-07-04": 134,
-      "2026-07-09": 428
+      "2026-07-09": 428,
+      "2026-08-15": 19
     }
   },
   {
@@ -134,12 +139,12 @@
     "url": "https://seerr.kristn.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/seerr.kristn.co.uk.ico",
     "slug": "seerr",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.04%",
     "time": 1626,
     "timeDay": 1316,
     "timeWeek": 1357,
@@ -150,7 +155,8 @@
       "2026-06-10": 192,
       "2026-06-11": 343,
       "2026-07-04": 133,
-      "2026-07-09": 428
+      "2026-07-09": 428,
+      "2026-08-15": 10
     }
   },
   {
@@ -158,12 +164,12 @@
     "url": "https://mc-map.kristn.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/mc-map.kristn.co.uk.ico",
     "slug": "mc-map",
-    "status": "up",
-    "uptime": "70.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "70.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.42%",
-    "uptimeYear": "70.80%",
+    "uptimeMonth": "25.54%",
+    "uptimeYear": "70.91%",
     "time": 792,
     "timeDay": 731,
     "timeWeek": 578,
@@ -199,7 +205,8 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
-      "2026-07-13": 350
+      "2026-07-13": 350,
+      "2026-08-15": 0
     }
   }
 ]
